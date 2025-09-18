@@ -30,10 +30,11 @@ I tried my best to ensure the same calculations are not reran several times, but
 
    ![projectstructure.png](repo/projectstructure.png)
 
-   Set the SDK to any version of the Java 24 JDK
+4. Set the SDK to any version of the Java 24 JDK
 
    ![Java_24_SDK.png](repo/Java_24_SDK.png)
-4. To run the project in the IntelliJ open `scales.github.Main` and click the run icon left of the class initialiser to 
+
+5. To run the project in the IntelliJ open `scales.github.Main` and click the run icon left of the class initialiser to 
 
     ![runproject.png](repo/runproject.png)
 
@@ -47,9 +48,11 @@ Ensure you have a java 24 jdk set up: [Setup Guide](https://javacodepoint.com/fr
 
 ![file_explorer.png](repo/file_explorer.png)
 ![cmd.png](repo/cmd.png)
+
 3. Type "gradlew build" in cmd
 
 ![gradlewbuild.png](repo/gradlewbuild.png)
+
 4. The compiled file will appear in `[base directory]\build\libs\3d-rendering-1.0-SNAPSHOT.jar`
 
 ![compiledsuccess.png](repo/compiledsuccess.png)
